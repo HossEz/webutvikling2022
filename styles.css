@@ -1,0 +1,26 @@
+/*
+body {background-image: url(https://scontent-arn2-2.xx.fbcdn.net/v/t1.18169-9/18402775_1366135726803043_5554011240447189107_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9267fe&_nc_ohc=K_OQRwRnCSYAX_0WX8X&_nc_ht=scontent-arn2-2.xx&oh=00_AT-N18zz1QC09vWX0eRswnPUIR5W3Jvni0AjbX6g2cd58g&oe=6335E37D)}
+*/
+
+
+body{
+    max-height: 1200px;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    /*
+    background-image: linear-gradient(95deg, blue, red);
+    */
+    
+}
+
+
+h2 {
+    font-size: 22px;
+    max-width: 800px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.grey-box{
+background-color: aliceblue;
+}
